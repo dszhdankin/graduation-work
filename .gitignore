@@ -1,0 +1,7 @@
+.idea/
+venv/
+embeddings/
+Sequence-Models-coursera/
+datasets/
+digit-recognizer/
+saved_models/
